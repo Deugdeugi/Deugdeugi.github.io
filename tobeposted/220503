@@ -1,0 +1,23 @@
+1. Github blog 환경 설정
+- teXt 테마 선택
+- 블로그 용 레포지토리 생성
+- teXt 테마의 내용을 복사해와 생성한 레포지토리에 복사
+  => commit 메시지 설정함... 설정법
+  => push 시도할 때 오류 발생 : github 인증 방식 변경, https://joytk.tistory.com/58
+     (참조: Github에 SSH Key를 2개 등록하기 위한 방법 소개, https://kibua20.tistory.com/190)
+     (참조: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- 개발 환경 설정
+  => Ruby, Jekyll 설정(ruby, gem, gcc, g++, make 설치)
+  => ruby-bundle 설치
+  => bundle 명령어 실행 - 오류 - 해결(https://marona42.github.io/%EA%B8%B0%EB%A1%9D/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0(1)/, https://stackoverflow.com/questions/20559255/error-while-installing-json-gem-mkmf-rb-cant-find-header-files-for-ruby)
+     (Docker를 이용한 방법도 지원하는 듯?)
+  
+2. Github blog 커스터마이징/글 작성 예정
+- https://velog.io/@shg4821/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-3-%EA%B8%80%EC%93%B0%EA%B8%B0
+- https://velog.io/@neori/Jekyll-TeXt-Theme%EB%A1%9C-GitHub-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0
+- https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start
+- https://jypthemiracle.medium.com/github-%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%84-imessage-%EB%8C%80%ED%99%94-%EA%B5%AC%EB%A6%84%EC%9C%BC%EB%A1%9C-%EA%BE%B8%EB%A9%B0%EB%B3%B4%EA%B8%B0-d41d48b3b921
+
+- 마크다운 작성법 : https://gist.github.com/ihoneymon/652be052a0727ad59601
+
+3. vi, nano 편집기 명령어
