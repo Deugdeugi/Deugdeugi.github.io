@@ -1,0 +1,34 @@
+- 맥 finder에서 단축키로 터미널 열도록 설정하기
+https://m.blog.naver.com/nateen7248/221193031122
+
+- 맥북 teXt 테마 설치 과정
+1) https://jekyllrb.com/docs/installation/
+Ruby : 어 설치되어있네...?
+RubyGems : 어 설치되어있네...?
+Gcc : 어 설치되어있네...?
+G++은 없다... make도 있고...
+
+- 추가로 homebrew 설치하고 node, npm, yarn도 설치하자
+https://velog.io/@dev_halo/M1-Mac-Home-brew를-설치해보자
+https://butter-ring.tistory.com/17
+
+- 근데 bundle install하고 bundle exec jekyll serve 하니까 Bus error가 뜬다... 원래 깔려있는 ruby가 맥 전용이라 새로 설치해줘야 한다고 한다...
+https://synoti21.github.io/blog%20dev/There-are-no-gemspecs-at-~~-해결-방법-(깃헙-페이지-게시할-때)/
+
+- 요거 하고도 뭔 gem들을 업데이트해달라는데... 일단 bundle update 해 보았다
+https://haereeroo.tistory.com/12
+
+- 마지막으로 webrick 에러가 나온다...
+https://synoti21.github.io/blog%20dev/There-are-no-gemspecs-at-~~-해결-방법-(깃헙-페이지-게시할-때)/
+
+이제 된다!
+* 명령어 아래에다가 따로 정리해보기.
+* ruby 문법도 좀 봐 놔야 하나...
+* 에러 메시지 사진은 이제 찍어놓는 게 좋겠다...
+=> 그래서 mac에서 스크린샷 찍는 법 : https://support.apple.com/ko-kr/HT201361
+(Desktop 폴더에 덜렁 저장된다)
+
+=> 맥 파일 삭제법 : https://macinjune.com/all-posts/mac/tip/맥-초간단-팁-휴지통을-거치지-않고-바로-삭제하기/
+그리고 delete 키를 backspace 키랑 같이 쓰고 있다...
+
+* Docker가 뭔지도 궁금하다...
