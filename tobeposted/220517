@@ -1,0 +1,9 @@
+- 창 최소화 : command + m
+- 파이썬 idle 빌드 : fn + f5(처음에 찾아봤을 때는 f5라고 되어 있어서 헷갈렸는데 일부 컴퓨터는 이거라고 한다... 내 맥북이 일부였구나)
+그리고 파이썬 idle 단축키 목록 : https://python.flowdas.com/library/idle.html
+
+- 리스트 복사를 하다 보니 깊은 복사가 필요해
+https://crackerjacks.tistory.com/14
+
+- 파이썬 object is not callable 오류
+https://m.blog.naver.com/passionisall/221828106961
