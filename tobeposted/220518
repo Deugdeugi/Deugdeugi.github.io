@@ -1,4 +1,12 @@
 개발자 도구 다루는 법 찾아보기
+- 크롬 개발자 도구
+- 사파리 개발자 도구
+
+블로그 커스터마이징을 해 보자
+- https://syki66.github.io/blog/2020/04/16/TeXt-theme-config.html
+- 커스터마이징 중에 보니까... 블로그 post 날짜를 미래 날짜로 하면 얘가 빌드하는 과정에서 제외시켜 버린다... 우와...
+
+지킬 테마에 대해 더 알아보자
 
 파이썬 split() vs split(' ')
 - https://this-programmer.tistory.com/302
