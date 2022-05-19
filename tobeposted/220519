@@ -1,0 +1,7 @@
+자바스크립트 slice와 splice의 차이
+- https://www.daleseo.com/js-array-slice-splice/
+
+그런데 예제에 나온 fill과 map 함수도 알아보자
+- fill 함수 : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/fill
+- map 함수 : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+https://degurii.tistory.com/225
