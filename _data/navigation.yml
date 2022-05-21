@@ -50,3 +50,11 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+docs-en:
+  - title:      Start
+    children:
+      - title:  Quick Start
+        url:    /2021/07/01/welcome.html
+      - title:  Structure
+        url:    /docs/en/structure
