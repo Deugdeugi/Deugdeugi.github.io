@@ -234,3 +234,5 @@ plugins:
 ## => Themes
 ##############################
 # theme: jekyll-text-theme
+
+excerpt_separator: <!-- more -->
