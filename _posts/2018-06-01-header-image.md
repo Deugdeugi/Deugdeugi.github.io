@@ -4,7 +4,7 @@ tags: TeXtt
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg
+    src: /docs/assets/images/cover1.jpg
 aside:
   toc: true
 sidebar:
