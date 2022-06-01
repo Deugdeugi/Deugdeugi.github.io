@@ -5,6 +5,11 @@ aside:
   toc: true
 sidebar:
   nav: docs-en
+cover: /assets/images/cover1.jpg
+article_header:
+  type: cover
+  image:
+    src: /assets/images/cover2.jpg
 ---
 
 블로그에 구현 예정인 것들을 이 페이지에 모아놓았다.

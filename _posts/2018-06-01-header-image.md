@@ -1,10 +1,11 @@
 ---
 title: Post with Header Image
 tags: TeXtt
+cover: /assets/images/cover4.jpg
 article_header:
   type: cover
   image:
-    src: /docs/assets/images/cover1.jpg
+    src: /assets/images/cover4.jpg
 aside:
   toc: true
 sidebar:
