@@ -82,9 +82,9 @@ docs-en:
     children:
       - title:  홈
         url:    /
-  - title:      블로그 구성
+  - title:      뚝딱뚝딱
     children:
-      - title:  블로그 구현 공사 중
+      - title:  블로그 공작소
         url:    /2022/05/24/tobeImplemented.html
   - title:      TIL
     children:
