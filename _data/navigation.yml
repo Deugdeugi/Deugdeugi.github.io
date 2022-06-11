@@ -78,9 +78,9 @@ header:
     url: https://github.com/Deugdeugi/Deugdeugi.github.io
 
 docs-en:
-  - title:      전공 공부
+  - title:      Deugdeugi
     children:
-      - title:  React
+      - title:  홈
         url:    /
   - title:      블로그 구성
     children:
