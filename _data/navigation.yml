@@ -84,9 +84,7 @@ docs-en:
         url:    /
   - title:      블로그 구성
     children:
-      - title:  블로그 기본 템플릿
-        url:    /archive.html?tag=Template
-      - title:  블로그에 구현 예정인 것
+      - title:  블로그 구현 공사 중
         url:    /2022/05/24/tobeImplemented.html
   - title:      TIL
     children:
