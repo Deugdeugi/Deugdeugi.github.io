@@ -12,9 +12,31 @@
             {%- include snippets/get-nav-url.html path=page.url -%}
             {%- assign _page_url = __return -%}
             {%- if _nav_url == _page_url -%}
-              <li class="toc-h2 active"><a href="{{ _nav_url }}">{{ _child.title }}</a></li>
+              <li class="toc-h2 active">
+                <a href="{{ _nav_url }}">{{ _child.title }}</a>
+                {% for tag in site.tags %}
+                    {%- if _child.tag == tag[0] -%}
+                      {% assign tag_count = 0 %}
+                      {% for post in tag[1] %}
+                        {% assign tag_count = tag_count | plus: 1 %}
+                      {% endfor %}
+                      ({{ tag_count }})
+                    {%- endif -%}
+                  {% endfor %}
+              </li>
             {%- else -%}
-              <li class="toc-h2"><a href="{{ _nav_url }}">{{ _child.title }}</a></li>
+              <li class="toc-h2">
+                <a href="{{ _nav_url }}">{{ _child.title }}</a>
+                {% for tag in site.tags %}
+                  {%- if _child.tag == tag[0] -%}
+                    {% assign tag_count = 0 %}
+                    {% for post in tag[1] %}
+                      {% assign tag_count = tag_count | plus: 1 %}
+                    {% endfor %}
+                    ({{ tag_count }})
+                  {%- endif -%}
+                {% endfor %}
+              </li>
             {%- endif -%}
           {%- endfor -%}
         {%- endif -%}

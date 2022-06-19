@@ -82,15 +82,24 @@ docs-en:
     children:
       - title:  홈
         url:    /
+        tag:    홈
+
       - title:  블로그 공작소
         url:    /archive.html?tag=공작소
+        tag:    공작소
+
   - title:      TIL
     children:
       - title:  할 일
         url:    /2022/06/11/doit.html
+
       - title:  TIL
         url:    /archive.html?tag=TIL
+        tag:    TIL
+
+
   - title:      툴 사용법
     children:
       - title:  VS Code
         url:    /archive.html?tag=VSCode
+        tag:    VSCode
