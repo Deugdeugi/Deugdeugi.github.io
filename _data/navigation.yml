@@ -83,7 +83,7 @@ docs-en:
       - title:  홈
         url:    /
       - title:  블로그 공작소
-        url:    /2022/05/24/tobeImplemented.html
+        url:    /archive.html?tag=공작소
   - title:      TIL
     children:
       - title:  할 일
