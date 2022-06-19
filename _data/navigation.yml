@@ -82,8 +82,6 @@ docs-en:
     children:
       - title:  홈
         url:    /
-  - title:      뚝딱뚝딱
-    children:
       - title:  블로그 공작소
         url:    /2022/05/24/tobeImplemented.html
   - title:      TIL
@@ -92,3 +90,7 @@ docs-en:
         url:    /2022/06/11/doit.html
       - title:  TIL
         url:    /archive.html?tag=TIL
+  - title:      툴 사용법
+    children:
+      - title:  VS Code
+        url:    /archive.html?tag=VSCode
