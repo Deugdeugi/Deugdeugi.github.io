@@ -97,9 +97,24 @@ docs-en:
         url:    /archive.html?tag=TIL
         tag:    TIL
 
+  - title:      Frontend
+    children:
+      - title:  Frontend 배경지식
+        url:    /archive.html?tag=Frontend
+        tag:    Frontend
+
+  - title:      프로그래밍
+    children:
+      - title:  Python
+        url:    /archive.html?tag=Python
+        tag:    Python
 
   - title:      툴 사용법
     children:
       - title:  VS Code
         url:    /archive.html?tag=VSCode
         tag:    VSCode
+
+      - title:  Github
+        url:    /archive.html?tag=Github
+        tag:    Github
