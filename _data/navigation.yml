@@ -88,14 +88,10 @@ docs-en:
         url:    /archive.html?tag=공작소
         tag:    공작소
 
-  - title:      TIL
+  - title:      할 일
     children:
       - title:  할 일
         url:    /2022/06/11/doit.html
-
-      - title:  TIL
-        url:    /archive.html?tag=TIL
-        tag:    TIL
 
   - title:      Frontend
     children:
@@ -118,3 +114,20 @@ docs-en:
       - title:  Github
         url:    /archive.html?tag=Github
         tag:    Github
+
+      - title:  Vi & Vim & Nano
+        url:    /archive.html?tag=Vi_Vim_Nano
+        tag:    Vi_Vim_Nano
+
+  - title:      프로젝트
+    children:
+        - title:  프로젝트 리스트
+          url:    /2022/09/21/projectlist.html
+          tag:    Project
+
+        - title:  1. 날씨 알려주는 앱
+          url:    /archive.html?tag=Weatherapp
+          tag:    Project React-Native Weatherapp
+
+  - title:      알고리즘
+  - title:      기술면접 지식

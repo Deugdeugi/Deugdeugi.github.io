@@ -1,9 +1,0 @@
-커밋 제목 입력
-
-:Release Notes:
-커밋 요약 입력
-
-:Detailed Notes:
-커밋 내용 입력
-
-:References:

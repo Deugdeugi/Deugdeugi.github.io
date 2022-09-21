@@ -6,6 +6,3 @@
 :Detailed Notes:
 커밋 내용 입력
 
-:References:
-참조 링크 입력
-
