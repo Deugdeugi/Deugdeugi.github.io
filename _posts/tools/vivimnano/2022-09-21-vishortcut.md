@@ -12,7 +12,7 @@ sidebar:
 #     src: /assets/images/cover2.jpg
 ---
 
-블로그를 VSCode로 편집하다가 마크다운 파일에서 한글이 자꾸 씹혀서 해결책을 찾아보았다.
+vi 편집기의 주요 단축키를 정리해 보았다
 
 <!-- more -->
 
