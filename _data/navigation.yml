@@ -96,8 +96,12 @@ docs-en:
   - title:      Frontend
     children:
       - title:  Frontend 배경지식
-        url:    /archive.html?tag=Frontend
-        tag:    Frontend
+        url:    /archive.html?tag=FrontendBack
+        tag:    FrontendBack
+
+      - title:  React
+        url:    /archive.html?tag=React
+        tag:    React
 
   - title:      프로그래밍
     children:
