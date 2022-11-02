@@ -109,6 +109,12 @@ docs-en:
         url:    /archive.html?tag=Python
         tag:    Python
 
+  - title:      웹
+    children:
+      - title:  Web
+        url:    /archive.html?tag=Web
+        tag:    Web
+
   - title:      툴 사용법
     children:
       - title:  VS Code
@@ -134,4 +140,4 @@ docs-en:
           tag:    Project React-Native Weatherapp
 
   - title:      알고리즘
-  - title:      기술면접 지식
+  - title:      기술면접
