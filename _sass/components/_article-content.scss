@@ -38,6 +38,17 @@
   h2 {
     @include split-line(bottom);
   }
+
+  .thirdheading {
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .emphasis_1 {
+    color : red;
+    font-weight: bold;
+  }
+
   hr {
     border: none;
     @include horizontal-rules();
