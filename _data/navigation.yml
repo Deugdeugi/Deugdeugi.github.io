@@ -111,9 +111,9 @@ docs-en:
 
   - title:      웹
     children:
-      - title:  Web
-        url:    /archive.html?tag=Web
-        tag:    Web
+      - title:  Security
+        url:    /archive.html?tag=Security
+        tag:    Security
 
   - title:      툴 사용법
     children:
