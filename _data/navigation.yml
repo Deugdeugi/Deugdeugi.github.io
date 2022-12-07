@@ -141,8 +141,17 @@ docs-en:
 
         - title:  1. 날씨 알려주는 앱
           url:    /archive.html?tag=Weatherapp
-          tag:    Project React-Native Weatherapp
+          tag:    Weatherapp
 
   - title:      알고리즘
+    children:
+        - title:  알고리즘 기초
+          url:    /2022/12/07/algorithm-basic.html
+          tag:    Algorithm_Basic
+
+        - title:  알고리즘 문제 풀이
+          url:    /archive.html?tag=Algorithm_solution
+          tag:    Algorithm_solution
+
   - title:      기술 면접
   - title:      경제 공부
