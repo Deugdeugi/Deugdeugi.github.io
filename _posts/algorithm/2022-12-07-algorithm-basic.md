@@ -22,4 +22,8 @@ sidebar:
 <br>
 [3. 각 프로그래밍 언어의 입출력 속도에 대한 글](https://www.acmicpc.net/board/view/22716)
 <br>
-[4. 알고리즘에 자주 쓰이는 함수 정리](https://www.google.com/search?q=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90+%EC%9E%90%EC%A3%BC+%EC%93%B0%EC%9D%B4%EB%8A%94+%ED%95%A8%EC%88%98&sxsrf=ALiCzsYpT7hmyvGaEQxY5UR4ZzHMAhS7qA%3A1669252981180&source=hp&ei=dcd-Y7XVCNnp-Aab84mYCw&iflsig=AJiK0e8AAAAAY37VhQJw3lpQIhP4Si-PNyBR1Oewyfpn&ved=0ahUKEwj14-z308X7AhXZNN4KHZt5ArMQ4dUDCAo&uact=5&oq=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90+%EC%9E%90%EC%A3%BC+%EC%93%B0%EC%9D%B4%EB%8A%94+%ED%95%A8%EC%88%98&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgQIIxAnOgsIABCABBCxAxCDAToRCC4QgAQQsQMQgwEQxwEQ0QM6DQguEIAEEMcBENEDEAo6BwgjEOoCECc6EQguEIMBEMcBELEDENEDEIAEOgQILhADOgQIABADOgsILhCABBDHARDRAzoHCC4Q1AIQAzoICAAQgAQQsQM6CggAELEDEIMBEEM6BAgAEEM6BAguEEM6CwguEIAEELEDEIMBOgUIABCABDoECAAQHjoGCAAQHhAPOgcIIRCgARAKUABY_ylgiipoFnAAeAyAAeABiAGRKZIBBjIuMzAuM5gBAKABAbABCg&sclient=gws-wiz)
+[4. 알고리즘에 자주 쓰이는 함수 정리](/2022/12/09/algorithm-reference.html)
+<br>
+[5. 알고리즘 공부, 어떻게 해야하나요?](https://baactree.tistory.com/52)
+<br>
+[6. 나의 코딩테스트 취약점은 뭘까?](https://fastcampus.co.kr/story_article_codingtest)
