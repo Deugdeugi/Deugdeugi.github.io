@@ -1,8 +1,9 @@
-커밋 제목 입력
+<type>[optional scope]: <description>
 
-:Release Notes:
-커밋 요약 입력
+[optional body]
 
-:Detailed Notes:
-커밋 내용 입력
+[optional footer(s)]
 
+(*) conventional Commit 규칙
+- https://www.conventionalcommits.org/en/v1.0.0/#summary
+- https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional
