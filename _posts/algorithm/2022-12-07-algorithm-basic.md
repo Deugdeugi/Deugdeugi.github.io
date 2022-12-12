@@ -27,3 +27,10 @@ sidebar:
 [5. 알고리즘 공부, 어떻게 해야하나요?](https://baactree.tistory.com/52)
 <br>
 [6. 나의 코딩테스트 취약점은 뭘까?](https://fastcampus.co.kr/story_article_codingtest)
+<br>
+[7. 프로그래밍과 알고리즘 공부 방법](https://seamless.tistory.com/m/96)
+<br>
+[8. 알고리즘 공부를 어떻게 해야하나요](https://www.acmicpc.net/board/view/10136)
+<br>
+[9. 좋은 프로그래머가 되는 24가지 방법](http://www.allofsoftware.net/2012/04/24.html)
+<br>
