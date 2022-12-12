@@ -34,3 +34,4 @@ sidebar:
 <br>
 [9. 좋은 프로그래머가 되는 24가지 방법](http://www.allofsoftware.net/2012/04/24.html)
 <br>
+[10. 알고리즘 공부 방법/순서](https://baactree.tistory.com/14)
