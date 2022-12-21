@@ -35,3 +35,17 @@ sidebar:
 [9. 좋은 프로그래머가 되는 24가지 방법](http://www.allofsoftware.net/2012/04/24.html)
 <br>
 [10. 알고리즘 공부 방법/순서](https://baactree.tistory.com/14)
+
+<h2 id="h2">프로그래밍 대회</h2>
+1. 한국 정보 올림피아드
+<br>
+2. ACM-ICPC
+<br>
+3. 탑코더
+<br>
+4. 구글 코드 잼
+<br>
+5. 코드포스
+<br>
+6. 알고스팟
+<br>
