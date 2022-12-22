@@ -8,3 +8,4 @@
 - https://www.conventionalcommits.org/en/v1.0.0/#summary
 - https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional
 - type must be one of [build, chore, ci, docs, feat, fix, improvement, perf, refactor, release, revert, style, test] [type-enum]
+(ex) fix(blog): 블로그 수정
