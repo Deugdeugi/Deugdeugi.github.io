@@ -158,4 +158,9 @@ docs-en:
           tag:    Algorithm_Study
 
   - title:      기술 면접
+
   - title:      경제 공부
+    children:
+        - title:  책 / 유튜브 정리
+          url:    /archive.html?tag=Economic_Summary
+          tag:    Economic_Summary
