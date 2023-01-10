@@ -161,6 +161,6 @@ docs-en:
 
   - title:      경제 공부
     children:
-        - title:  책 / 유튜브 정리
-          url:    /archive.html?tag=Economic_Summary
-          tag:    Economic_Summary
+        - title:  자유지성 유튜브
+          url:    /archive.html?tag=Liberal_Reason
+          tag:    Liberal_Reason
