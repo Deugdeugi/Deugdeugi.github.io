@@ -20,3 +20,12 @@ sidebar:
 <h2 id="h2">C++</h2>
 
 <h2 id="h3">파이썬</h2>
+<span class="thirdheading">
+1) 파이썬에서 재귀를 사용하여 문제를 해결할 때는 다음 코드를 사용한다.
+</span>
+<br>
+=> 파이썬의 기본 재귀 깊이 제한은 1000으로 매우 얕은 편이기 때문에, 재귀로 알고리즘 문제를 풀 경우 자주 이 제한에 걸리게 된다.
+```python
+import sys
+sys.setrecursionlimit(10 ** 6)
+```
