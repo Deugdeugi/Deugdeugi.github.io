@@ -17,17 +17,13 @@ npm install 명령어의 옵션에 대해 정리해 보았다
 <!-- more -->
 
 <h2 id="h1">1. 패키지 설치</h2>
-<span class='thirdheading'>
-1) 패키지명을 명시해 특정 패키지를 설치함
-</span>
+#### 1) 패키지명을 명시해 특정 패키지를 설치함
 ```
 $ npm install <package>
 ```
 
 <br>
-<span class='thirdheading'>
-2) 패키지명을 명시하지 않고 package.json 파일의 의존성을 설치함
-</span>
+#### 2) 패키지명을 명시하지 않고 package.json 파일의 의존성을 설치함
 ```
 $ npm install
 ```
@@ -35,9 +31,7 @@ $ npm install
 
 <br>
 <h2 id="h2">2. 지역 설치와 전역 설치</h2>
-<span class='thirdheading'>
-1) 지역(local) 설치 (default)
-</span>
+#### 1) 지역(local) 설치 (default)
 
 - 프로젝트 루트 디렉토리에 node_modules 디렉토리가 자동 생성되고 그 안에 패키지가 설치된다.
 - 지역으로 설치된 패키지는 해당 프로젝트 내에서만 사용할 수 있다.
@@ -47,9 +41,7 @@ $ npm install <package>
 ```
 
 <br>
-<span class='thirdheading'>
-2) 전역(global) 설치
-</span>
+#### 2) 전역(global) 설치
 - 전역으로 설치된 패키지는 전역에서 참조할 수 있다.
 - 모든 프로젝트가 공통으로 사용하는 패키지는 전역에 설치한다.
 - 전역에 설치된 패키지는 OS에 따라 설치 장소가 다르다.
@@ -99,10 +91,7 @@ $ npm install -g <package>
 |^version|명시된 version과 호횐되는 버전|
 
 <br>
-<span class='thirdheading'>
-※ ~(틸트)와 ^(캐럿)의 차이?
-</span>
-
+#### ※ ~(틸트)와 ^(캐럿)의 차이?
 1) ~(틸트) : 틸트는 패치 버전 범위 내에서 업데이트 한다.
 
 ```

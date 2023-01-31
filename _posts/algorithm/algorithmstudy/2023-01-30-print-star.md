@@ -1,6 +1,6 @@
 ---
 title: 별 찍기 - 10(백준 2447번) 풀이 방법 정리
-tags: Algorithm_Study
+tags: Algorithm_Solution
 aside:
   toc: true
 sidebar:
@@ -16,21 +16,12 @@ sidebar:
 
 <!-- more -->
 <h2 id="h1">재귀 없이 해결하는 방법</h2>
-<span class="thirdheading">
 연재 예정
-</span>
-<br>
 
 <h2 id="h2">재귀로 해결하는 방법(1)</h2>
-<span class="thirdheading">
 연재 예정
-</span>
-<br>
 
 <h2 id="h3">재귀로 해결하는 방법(2)</h2>
-<span class="thirdheading">
 연재 예정
-</span>
-<br>
 
 <h2 id="h4">출처</h2>
