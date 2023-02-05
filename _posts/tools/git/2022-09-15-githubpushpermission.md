@@ -1,6 +1,6 @@
 ---
 title: Github에서 push가 안 될 때는?
-tags: Github
+tags: Git
 aside:
   toc: true
 sidebar:

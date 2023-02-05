@@ -125,9 +125,9 @@ docs-en:
         url:    /archive.html?tag=VSCode
         tag:    VSCode
 
-      - title:  Github
-        url:    /archive.html?tag=Github
-        tag:    Github
+      - title:  Git
+        url:    /archive.html?tag=Git
+        tag:    Git
 
       - title:  Vi & Vim & Nano
         url:    /archive.html?tag=Vi_Vim_Nano
