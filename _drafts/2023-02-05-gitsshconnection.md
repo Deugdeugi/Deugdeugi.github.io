@@ -12,7 +12,7 @@ sidebar:
 #     src: /assets/images/cover2.jpg
 ---
 
-회사에서 업무를 하다 보니 git push를 할 때 github에 ssh로 자동 로그인되는 아이디가 있어서 이 아이디로 왜 접속되는지 궁금했다... 
+회사에서 업무를 하다 보니 git push를 할 때 github에 ssh로 자동 로그인되는 아이디가 있어서 이 아이디로 왜 접속되는지 궁금했다...
 
 <!-- more -->
 <br>
@@ -44,4 +44,16 @@ Permission to (repositoryName) denied to (userName)
 <br>
 <h2 id="h3">답을 찾는 과정 2 : ssh 접속 과정 자체를 보자.</h2>
 
-... 추후 정확한 로직 파악 이후 정리 예정
+... 쓰면서 맥이랑 윈도우로 다시 시도해 보니 요것들은 잘 되는데...? 우분투만 뭔가 이상한 것 같다.
+다음 항목에 따라 테스트를 해보려고 한다.
+
+
+
+접속 명령어는 ssh -vT git@github.com 이다.
+1. 기본 id_rsa 접속 확인
+2. ssh config로 지정한 후 접속 확인
+3. .ssh 폴더나 id_rsa를 숨기고 접속 확인
+
+SSH 키 이용 시 bad permissions: ignore key: 에러가 발생할 경우 : https://www.deok.me/entry/SSH-%ED%82%A4-%EC%9D%B4%EC%9A%A9-%EC%8B%9C-bad-permissions-ignore-key-%EC%97%90%EB%9F%AC%EA%B0%80-%EB%B0%9C%EC%83%9D%ED%95%A0-%EA%B2%BD%EC%9A%B0
+SSH 키 생성 후 오류 : https://m.blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=zilly1&logNo=220923646151
+Github 다수 계정을 위한 SSH key 설정 :: 마이구미 : https://mygumi.tistory.com/96
