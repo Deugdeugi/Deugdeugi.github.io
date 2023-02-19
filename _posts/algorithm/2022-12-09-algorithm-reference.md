@@ -117,12 +117,24 @@ a = [i * j for j in range(2, 10)
 ![Image](/assets/postimage/listcomprehension_2.png){:.border}
 
 <br>
-#### 이외 파이썬에서 자주 쓰이는 것! (계속 작성 예정)
-(1) 리스트
+#### - 입력을 빠르게 받을 때는 open(0)을 활용할 수 있다.
+open(0)는 이터레이터 형식으로 파일의 내용을 읽어 주며, 안의 숫자는 [File Descriptor](https://stackoverflow.com/questions/53898231/integer-file-descriptor-0-in-open)이다.
+
 <br>
-(2) ...
+#### - 리스트 언패킹(*)과 딕셔너리 언패킹(**)을 활용한다.
+
+<br>
+#### - 파이썬 3.8부터 바다코끼리 연산자(:=)를 활용할 수 있다.
+```python
+# 파이썬 3.8 새로운 기능 문서 : https://docs.python.org/ko/3/whatsnew/3.8.html
+# 기본 예시 : len(a)이라는 표현식에 n이라는 이름을 부여하여, 할당과 사용을 한 단계로 줄일 수 있다.
+if (n := len(a)) > 10:
+    print(f"List is too long ({n} elements, expected <= 10)")
+```
 
 <br>
 <h2 id="h3">출처</h2>
 [memset 함수 사용 시 주의사항](https://shaeod.tistory.com/282) <br>
-[파이썬 코딩도장](https://dojang.io/course/view.php?id=7)
+[파이썬 코딩도장](https://dojang.io/course/view.php?id=7) <br>
+[open(0) : 1](https://www.acmicpc.net/board/view/59815) <br>
+[파이썬 3.8의 새로운 기능](https://docs.python.org/ko/3/whatsnew/3.8.html)
