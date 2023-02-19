@@ -3,6 +3,10 @@
 - Production 모드 실행 : watchy -w _config.yml -- bundle exec jekyll serve --livereload --watch
 - Draft 모드 실행 : watchy -w _config.yml -- bundle exec jekyll serve --livereload --drafts --watch
 
+1. VSCode 한글 씹힐 때
+- Command + Shift + P 로 명령 검색창 표시 > 표시 언어 구성 > ko 선택
+- Command + P 는 파일 이름 검색창 표시
+
 <!--
 # [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
 
