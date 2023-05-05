@@ -161,6 +161,16 @@ docs-en:
 
   - title:      경제 공부
     children:
-        - title:  자유지성 유튜브
+        - title:  판교불패
+          # url:    /archive.html?tag=Liberal_Reason
+          tag:    Panbul
+
+        - title:  자유지성
           url:    /archive.html?tag=Liberal_Reason
+          tag:    Liberal_Reason
+
+  - title:      블로그 틀
+    children:
+        - title:  블로그 틀 
+          url:    /2023/05/06/blogtemplate.html
           tag:    Liberal_Reason
