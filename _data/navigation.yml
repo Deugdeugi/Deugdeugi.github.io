@@ -162,7 +162,7 @@ docs-en:
   - title:      경제 공부
     children:
         - title:  판교불패
-          # url:    /archive.html?tag=Liberal_Reason
+          url:    archive.html?tag=Panbul
           tag:    Panbul
 
         - title:  자유지성
