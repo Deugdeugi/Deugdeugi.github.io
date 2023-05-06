@@ -133,6 +133,10 @@ docs-en:
         url:    /archive.html?tag=Vi_Vim_Nano
         tag:    Vi_Vim_Nano
 
+      - title:  Google
+        url:    /archive.html?tag=Google
+        tag:    Google
+
   - title:      프로젝트
     children:
         - title:  프로젝트 리스트
