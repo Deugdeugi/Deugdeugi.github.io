@@ -20,3 +20,4 @@ sidebar:
 
 ## 출처
 - 주식시장의 흐름 알고 싶으면 이 지표들에 주목하세요 ([주식시장의 흐름 알고 싶으면 이 지표들에 주목하세요](https://www.sisain.co.kr/news/articleView.html?idxno=44274))
+- FRED 데이터로 경기침체(recession) 예측하기 ([FRED 데이터로 경기침체(recession) 예측하기](https://psystat.tistory.com/164))
