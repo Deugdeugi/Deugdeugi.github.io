@@ -113,6 +113,10 @@ docs-en:
         url:    /archive.html?tag=Python
         tag:    Python
 
+      - title:  Javascript
+        url:    /archive.html?tag=Javascript
+        tag:    Javascript
+
   - title:      웹
     children:
       - title:  Security
@@ -175,6 +179,6 @@ docs-en:
 
   - title:      블로그 틀
     children:
-        - title:  블로그 틀 
+        - title:  블로그 틀
           url:    /2023/05/06/blogtemplate.html
           tag:    Liberal_Reason
