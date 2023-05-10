@@ -88,6 +88,9 @@ docs-en:
         url:    /archive.html?tag=공작소
         tag:    공작소
 
+      - title:  참조 사이트
+        url:    /2023/05/10/refersite.html
+
   - title:      할 일
     children:
       - title:  할 일
