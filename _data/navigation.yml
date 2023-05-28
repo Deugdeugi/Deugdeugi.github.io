@@ -180,6 +180,10 @@ docs-en:
           url:    /archive.html?tag=Liberal_Reason
           tag:    Liberal_Reason
 
+        - title:  경제 용어 정리
+          url:    /archive.html?tag=Economy_Words
+          tag:    Economy_Words
+
   - title:      블로그 틀
     children:
         - title:  블로그 틀
