@@ -18,6 +18,7 @@ sidebar:
 
 ## 거시경제 지표 모음
 ### 연방공개시장위원회(FOMC) 보고서
+- https://www.federalreserve.gov/monetarypolicy/fomc.htm
 -  https://ecodemy.cafe24.com/fomc.html
 
 ### 미국 10년물 국채수익률(국채금리)
