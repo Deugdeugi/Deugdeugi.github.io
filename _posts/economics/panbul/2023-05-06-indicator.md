@@ -28,6 +28,14 @@ sidebar:
 ### 금융위원회 자료(한국)
 - https://www.fsc.go.kr/index
 
+### 올웨더 포트폴리오(All weather)
+- 헤지펀드의 대가인 레이 달리오가 제안한 포트폴리오이다.
+- https://blog.toss.im/article/asset-allocation-etf
+- https://m.blog.naver.com/pangyo_nevergiveup_/223117876083?referrerCode=1
+- https://usant.tistory.com/
+- 미국 ETF 표 참조
+
+
 ## 거시경제 지표 모음
 ### 미국 CPI
 - 소비자물가지수(CPI)는 소비자 관점에서의 상품 및 서비스 가격 변동을 측정한다. 구매 동향 및 인플레이션의 변동을 측정하는 중요한 방법이다.
