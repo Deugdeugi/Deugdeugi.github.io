@@ -21,6 +21,16 @@ sidebar:
 - https://www.federalreserve.gov/monetarypolicy/fomc.htm
 -  https://ecodemy.cafe24.com/fomc.html
 
+### 미국 CPI
+- 소비자물가지수(CPI)는 소비자 관점에서의 상품 및 서비스 가격 변동을 측정한다. 구매 동향 및 인플레이션의 변동을 측정하는 중요한 방법이다.
+- 미국은 소비 위주의 국가이며, 금리를 조절할 때 인플레이션 척도를 보여 주는 지표로 연준은 2%를 목표로 하고 있다.
+- 지정된 CPI 구성 품목과 비율이 존재한다.
+
+#### 근원물가지수
+- 변동성이 큰 품목을 제외하여 산출한 지수
+- https://find-alpha.tistory.com/185
+- 연준에서 개발한 절사 CPI 지수(Trimmed Mean Consumer Price Index)도 존재한다.
+
 ### 미국 10년물 국채수익률(국채금리)
 - 채권 가격이 떨어지면 채권수익률(채권금리)이 높아지는 식으로 반대로 움직인다.
 
