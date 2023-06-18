@@ -35,6 +35,8 @@ sidebar:
 - https://usant.tistory.com/
 - 미국 ETF 표 참조
 
+## 국제금융센터 보고서
+- https://www.kcif.or.kr/report/reportList
 
 ## 거시경제 지표 모음
 ### 미국 CPI
