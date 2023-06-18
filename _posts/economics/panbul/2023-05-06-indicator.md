@@ -93,7 +93,7 @@ sidebar:
 #### L(광의 유동성)
 - L은 모든 금융상품들을 아울러서 한나라의 경제가 보유하고 있는 전체 유동성의 크기를 측정하기 위한 지표이다. L은 Lf보다 금융상품 포괄범위가 넓은 광의 유동성 지표로서, Lf에 기업 및 정부 등이 발행하는 기업어음, 회사채, 국공채 등 유가증권이 포함된다. 여기서 L은 유동성을 의미하는 Liquity의 약자이다.
 
-![Image](/assets/postimage/currencyrange.png){:.border}
+![Image](/assets/postimage/currencyrange.png){:style="border:1px solid #eaeaea; border-radius: 7px; padding: 0px;" }
 
 <br>
 
