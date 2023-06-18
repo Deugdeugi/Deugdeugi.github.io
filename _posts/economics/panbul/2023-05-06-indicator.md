@@ -23,6 +23,7 @@ sidebar:
 
 ### CME Fedwatch
 - 금리 트레이더들의 금리 예상 사이트. 이외에 각 종목에 대한 지표들도 있다.
+- https://www.cmegroup.com/ko/markets/interest-rates/cme-fedwatch-tool.html
 
 ## 거시경제 지표 모음
 ### 미국 CPI
