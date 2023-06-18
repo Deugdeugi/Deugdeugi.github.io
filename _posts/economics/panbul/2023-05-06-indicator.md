@@ -54,6 +54,10 @@ sidebar:
 - 그러므로 거래량 폭증 시에는 매전월이 같이 증가하고 감소할 때는 다 같이 빠진다.
 -  https://m.blog.naver.com/pangyo_nevergiveup_/223083695372?referrerCode=1
 
+### 우리나라 대출 금리
+- 우리나라 대출 금리의 경우 미국 기준 금리와 우리나라 기준 금리에 따라 움직인다.
+- 월세 이자율과 전세대출 이자율을 따져 보았을 때 이득인 방향으로 사람들이 움직일 가능성이 높다.
+
 ## 출처
 - 주식시장의 흐름 알고 싶으면 이 지표들에 주목하세요 ([주식시장의 흐름 알고 싶으면 이 지표들에 주목하세요](https://www.sisain.co.kr/news/articleView.html?idxno=44274))
 - FRED 데이터로 경기침체(recession) 예측하기 ([FRED 데이터로 경기침체(recession) 예측하기](https://psystat.tistory.com/164))
