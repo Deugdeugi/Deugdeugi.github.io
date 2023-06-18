@@ -29,6 +29,14 @@ sidebar:
 
 <br>
 
+### FRED (Federal Reserve Economic Data)
+- https://fred.stlouisfed.org/
+- 세인트루이스 연준에서 제공하는 경제 데이터
+- https://sanvital.tistory.com/371
+-   https://m.blog.naver.com/xnap7/222061929067
+
+<br>
+
 ### 금융위원회 자료(한국)
 - https://www.fsc.go.kr/index
 
