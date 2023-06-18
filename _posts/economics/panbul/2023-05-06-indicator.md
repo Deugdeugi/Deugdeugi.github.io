@@ -21,12 +21,18 @@ sidebar:
 - https://www.federalreserve.gov/monetarypolicy/fomc.htm
 -  https://ecodemy.cafe24.com/fomc.html
 
+<br>
+
 ### CME Fedwatch(미국)
 - 금리 트레이더들의 금리 예상 사이트. 이외에 각 종목에 대한 지표들도 있다.
 - https://www.cmegroup.com/ko/markets/interest-rates/cme-fedwatch-tool.html
 
+<br>
+
 ### 금융위원회 자료(한국)
 - https://www.fsc.go.kr/index
+
+<br>
 
 ### 올웨더 포트폴리오(All weather) + 지수 투자법
 - 헤지펀드의 대가인 레이 달리오가 제안한 포트폴리오이다.
@@ -34,6 +40,8 @@ sidebar:
 - https://m.blog.naver.com/pangyo_nevergiveup_/223117876083?referrerCode=1
 - https://usant.tistory.com/
 - 미국 ETF 표 참조
+
+<br>
 
 ### 국제금융센터 보고서
 - https://www.kcif.or.kr/report/reportList
@@ -51,6 +59,8 @@ sidebar:
 - https://find-alpha.tistory.com/185
 - 연준에서 개발한 절사 CPI 지수(Trimmed Mean Consumer Price Index)도 존재한다.
 
+<br>
+
 ### 미국 3대 주가지수
 - https://m.blog.naver.com/limpider/221707398301
 
@@ -62,6 +72,8 @@ sidebar:
 
 #### 나스닥
 - 나스닥 시장에서 거래되는 종목 전체의 주가를 종합해서 산출한다.
+
+<br>
 
 ### 미국 10년물 국채수익률(국채금리)
 - 채권 가격이 떨어지면 채권수익률(채권금리)이 높아지는 식으로 반대로 움직인다.
@@ -90,6 +102,8 @@ sidebar:
 요약) 미국 국채금리 상승 → 달러 강세 → 외국인 투자자의 한국 국채·주식 매도 → 한국 국채금리 상승, 주가 하락
 ```
 
+<br>
+
 ### 장단기 국채 금리의 차이
 -  https://www.sisain.co.kr/news/articleView.html?idxno=44274))
 - https://psystat.tistory.com/164
@@ -101,6 +115,8 @@ sidebar:
 - 돈이 급하게 되면 매전월 3개를 전부 올려놓는다. 만약 이 상황에서 매매가 되면 나머지 전세/월세는 자연스럽게 거둬진다.
 - 그러므로 거래량 폭증 시에는 매전월이 같이 증가하고 감소할 때는 다 같이 빠진다.
 -  https://m.blog.naver.com/pangyo_nevergiveup_/223083695372?referrerCode=1
+
+<br>
 
 ### 우리나라 대출 금리
 - 우리나라 대출 금리의 경우 미국 기준 금리와 우리나라 기준 금리에 따라 움직인다.
