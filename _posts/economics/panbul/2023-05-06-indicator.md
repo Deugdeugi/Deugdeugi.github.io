@@ -39,7 +39,7 @@ sidebar:
 - https://www.kcif.or.kr/report/reportList
 
 
-
+<br />
 ## 거시경제 지표 모음
 ### 미국 CPI
 - 소비자물가지수(CPI)는 소비자 관점에서의 상품 및 서비스 가격 변동을 측정한다. 구매 동향 및 인플레이션의 변동을 측정하는 중요한 방법이다.
@@ -89,9 +89,11 @@ sidebar:
 ```
 
 ### 장단기 국채 금리의 차이
+-  https://www.sisain.co.kr/news/articleView.html?idxno=44274))
+- https://psystat.tistory.com/164
 
 
-
+<br />
 ## 부동산 지표 모음
 ### 매매/전세/월세 매물 개수
 - 돈이 급하게 되면 매전월 3개를 전부 올려놓는다. 만약 이 상황에서 매매가 되면 나머지 전세/월세는 자연스럽게 거둬진다.
@@ -102,6 +104,7 @@ sidebar:
 - 우리나라 대출 금리의 경우 미국 기준 금리와 우리나라 기준 금리에 따라 움직인다.
 - 월세 이자율과 전세대출 이자율을 따져 보았을 때 이득인 방향으로 사람들이 움직일 가능성이 높다.
 
+<br />
 ## 출처
 - 주식시장의 흐름 알고 싶으면 이 지표들에 주목하세요 ([주식시장의 흐름 알고 싶으면 이 지표들에 주목하세요](https://www.sisain.co.kr/news/articleView.html?idxno=44274))
 - FRED 데이터로 경기침체(recession) 예측하기 ([FRED 데이터로 경기침체(recession) 예측하기](https://psystat.tistory.com/164))
