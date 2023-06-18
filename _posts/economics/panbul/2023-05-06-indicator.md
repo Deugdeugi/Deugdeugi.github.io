@@ -17,13 +17,16 @@ sidebar:
 <!-- more -->
 
 ## 지표 사이트 모음
-### 연방공개시장위원회(FOMC) 보고서
+### 연방공개시장위원회(FOMC) 보고서(미국)
 - https://www.federalreserve.gov/monetarypolicy/fomc.htm
 -  https://ecodemy.cafe24.com/fomc.html
 
-### CME Fedwatch
+### CME Fedwatch(미국)
 - 금리 트레이더들의 금리 예상 사이트. 이외에 각 종목에 대한 지표들도 있다.
 - https://www.cmegroup.com/ko/markets/interest-rates/cme-fedwatch-tool.html
+
+### 금융위원회 자료(한국)
+- https://www.fsc.go.kr/index
 
 ## 거시경제 지표 모음
 ### 미국 CPI
