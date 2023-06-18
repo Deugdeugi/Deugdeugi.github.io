@@ -52,6 +52,8 @@ sidebar:
 - 연준에서 개발한 절사 CPI 지수(Trimmed Mean Consumer Price Index)도 존재한다.
 
 ### 미국 3대 주가지수
+- https://m.blog.naver.com/limpider/221707398301
+
 #### 다우지수 산업지수(DJIA)
 - 30개 대표 종목의 주가를 단순평균한 값
 
