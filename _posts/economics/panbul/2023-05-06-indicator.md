@@ -44,6 +44,7 @@ sidebar:
 
 ### 한국은행
 - https://www.bok.or.kr/portal/main/main.do
+- https://www.bok.or.kr/portal/singl/pblictn/list.do?searchOptn10=TALK&menuNo=200633 (한국은행 간행물)
 
 <br>
 
