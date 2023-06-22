@@ -134,13 +134,21 @@ sidebar:
 
 <br>
 
-### 경기종합지수
+### 한국 경기종합지수
 ![Image](/assets/postimage/circulation2.jpg){:style="border:1px solid #eaeaea; border-radius: 7px; padding: 0px;" }
 
 - 경기종합지수는 국민경제 전체의 경기동향을 쉽게 파악하기 위하여 경제부문별(생산, 투자,고용, 소비 등)로 경기에 민감하게 반영하는 주요 경제지표들을 선정한 후 이 지표들의 전월대비 증감률을 합성하여 작성한다.
 - https://kostat.go.kr/statDesc.es?act=view&mid=a10501010000&sttr_cd=S010001
 - https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1057
 - https://m.blog.naver.com/pangyo_nevergiveup_/223133069347?referrerCode=1
+
+<br>
+
+### 미국 경기선행지수(LEI, Leading Economic Index)
+
+- https://www.conference-board.org/topics/us-leading-indicators
+
+- https://silvernecklace.tistory.com/485
 
 <br>
 
