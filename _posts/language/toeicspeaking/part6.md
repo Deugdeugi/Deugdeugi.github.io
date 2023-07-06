@@ -24,6 +24,7 @@ Also, he always meets deadlines for our projects.
 So, his business partners like to do business with our company.
 For that reason, I think time management skill is the most important for their success.
 
+<br>
 
 I think communication skill is the most important for their success.
 Most of all, they can communicate well with team members.
@@ -32,6 +33,7 @@ For example, he always listens to what his team members are struggling with.
 Also, He tries to get his team members to meet halfway when they argue with each other about work.So, All my team members like him and want to work with him.
 For that reason, I think communication skill is the most important for their success.
 
+<br>
 
 I think financial planning skill is the most important for their success.
 Most of all, it can determine the success of the project.
@@ -42,6 +44,7 @@ However, there was money left in our team, so my team leader bought additional m
 As a result, we were able to complete the project successfully.
 For that reason, I think financial planning skill is the most important for their success.
 
+<br>
 
 I agree that people care more about their physical fitness than in the past.
 Most of all, people have healthier eating habits.
@@ -51,6 +54,7 @@ But nowadays, I rarely drink beer and I usually have dinner at home with my fami
 As a result, I lost about 5kg of weight.
 For that reason, I agree that people care more about their physical fitness than in the past. 
 
+<br>
 
 I disagree that people care more about their physical fitness than in the past.
 Most of all, people have unhealthy eating habits.
@@ -60,6 +64,7 @@ But nowadays, I eat instant food often since I entered university.
 As a result, I gained about 5kg of weight.
 For that reason, I disagree that people care more about their physical fitness than in the past. 
 
+<br>
 
 I agree that the best way to learn a foreign language is to study in the country where the language is spoken.
 Most of all, we can use a foreign language more often.
@@ -69,6 +74,7 @@ Also, I lived with my foreign friends from other countries.
 As a result, I was able to improve my Chinese skills quickly.
 For that reason, I agree that the best way to learn a foreign language is to study in the country where the language is spoken.
 
+<br>
 
 I agree that it is easier to achieve professional success in a big city than in a small town nowadays.
 Most of all, it is easy to get job information in a big city.
@@ -77,6 +83,7 @@ So, I was able to participate in famous job fairs often.At the job fair, I recei
 As a result, it was very helpful for me to get a job.
 For that reason, I agree that it is easier to achieve professional success in a big city than in a small town nowadays.
 
+<br>
 
 I disagree that it is easier to achieve professional success in a big city than in a small town nowadays.
 Most of all, it is very competitive to run a business in a big city.
@@ -86,6 +93,7 @@ Also, it was very difficult to compete with large franchise cafes.
 As a result, he closed the cafe after a year.
 For that reason, I disagree that it is easier to achieve professional success in a big city than in a small town nowadays.
 
+<br>
 
 I agree that it is easier to achieve professional success in a big city than in a small town nowadays.
 Most of all, it is easy to get job information in a big city.
@@ -94,6 +102,7 @@ But it was difficult to get the latest job information in the city.
 So, I moved to a big city called Seoul.As a result, I was able to participate in famous job fairs often and it was very helpful for me to get a job.
 For that reason, I agree that it is easier to achieve professional success in a big city than in a small town nowadays.
 
+<br>
 
 I disagree that it is easier to achieve professional success in a big city than in a small town nowadays.
 Most of all, it is very competitive to run a business in a big city.
@@ -102,3 +111,5 @@ But it was very difficult to compete with large franchise cafes in the city.
 So, he is running a small cafe in his hometown nowadays.
 As a result, he is working in a more comfortable atmosphere and he has more customers than before.
 For that reason, I disagree that it is easier to achieve professional success in a big city than in a small town nowadays.
+
+<br>
