@@ -184,6 +184,12 @@ docs-en:
           url:    /archive.html?tag=Economy_Words
           tag:    Economy_Words
 
+  - title:      영어 공부
+    children:
+        - title:  토익 스피킹
+          url:    archive.html?tag=Toeic_Speaking
+          tag:    Toeic_Speaking
+
   - title:      블로그 틀
     children:
         - title:  블로그 틀
