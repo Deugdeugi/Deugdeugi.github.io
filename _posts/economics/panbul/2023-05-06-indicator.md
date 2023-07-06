@@ -17,6 +17,11 @@ sidebar:
 <!-- more -->
 
 ## 지표 사이트 모음
+### 대한민국 정책브리핑
+- https://www.korea.kr/main.do
+
+<br>
+
 ### 연방공개시장위원회(FOMC) 보고서(미국)
 - https://www.federalreserve.gov/monetarypolicy/fomc.htm
 -  https://ecodemy.cafe24.com/fomc.html
