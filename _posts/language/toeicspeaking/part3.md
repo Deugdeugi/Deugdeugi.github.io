@@ -1,0 +1,45 @@
+---
+title: Part 3 연습 지문
+tags: Toeic_Speaking
+aside:
+  toc: true
+sidebar:
+  nav: docs-en
+# cover: /assets/images/cover1.jpg
+# article_header:
+#   type: cover
+#   image:
+#     src: /assets/images/cover2.jpg
+---
+
+Part 3 연습 지문
+
+<!-- more -->
+
+Where is your hometown and do you still live there?
+- My hometown is Busan and I have been living here for 2 years.
+
+What outdoor activities do you enjoy in your hometown?
+- I usually play soccer with my friends in Central Park.
+
+Would you recommend your hometown to your friends for sightseeing? Why or why not?
+- I recommend my hometown to my friends for sightseeing.
+Because, my hometown has many famous tourist attractions.
+Also, when they need to move, they can easily find the bus stop and subway station.
+Therefore, I recommend my hometown to my friends for sightseeing.
+
+<br>
+
+How often do you exercise? And what do you usually do?
+- I exercise twice a week and I usually play soccer with my friends.
+
+Where is a good place to exercise in your town and why?
+- A good place to exercise in my town is a fitness center because I can be motivated by other people.
+
+Do you prefer to exercise at a fitness center or at home? Why?
+- I prefer to exercise at home.
+Because, I can exercise regardless of time.
+Also, I don't have to pay a lot of money to exercise.
+Therefore, I prefer to exercise at home.
+
+<br>
