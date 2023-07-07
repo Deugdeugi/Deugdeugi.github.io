@@ -18,57 +18,57 @@ sidebar:
 
 ## 지표 사이트 모음
 ### 대한민국 정책브리핑
-- https://www.korea.kr/main.do
+- [https://www.korea.kr/main.do](https://www.korea.kr/main.do)
 
 <br>
 
 ### 연방공개시장위원회(FOMC) 보고서(미국)
-- https://www.federalreserve.gov/monetarypolicy/fomc.htm
--  https://ecodemy.cafe24.com/fomc.html
+- [https://www.federalreserve.gov/monetarypolicy/fomc.htm](https://www.federalreserve.gov/monetarypolicy/fomc.htm)
+- [https://ecodemy.cafe24.com/fomc.html](https://ecodemy.cafe24.com/fomc.html)
 
 <br>
 
 ### CME Fedwatch(미국)
 - 금리 트레이더들의 금리 예상 사이트. 이외에 각 종목에 대한 지표들도 있다.
-- https://www.cmegroup.com/ko/markets/interest-rates/cme-fedwatch-tool.html
+- [https://www.cmegroup.com/ko/markets/interest-rates/cme-fedwatch-tool.html](https://www.cmegroup.com/ko/markets/interest-rates/cme-fedwatch-tool.html)
 
 <br>
 
 ### FRED (Federal Reserve Economic Data)
-- https://fred.stlouisfed.org/
+- [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/)
 - 세인트루이스 연준에서 제공하는 경제 데이터
-- https://sanvital.tistory.com/371
--   https://m.blog.naver.com/xnap7/222061929067
+- [https://sanvital.tistory.com/371](https://sanvital.tistory.com/371)
+- [https://m.blog.naver.com/xnap7/222061929067](https://m.blog.naver.com/xnap7/222061929067)
 
 <br>
 
 ### 금융위원회 자료(한국)
-- https://www.fsc.go.kr/index
+- [https://www.fsc.go.kr/index](https://www.fsc.go.kr/index)
 
 <br>
 
 ### 한국은행
-- https://www.bok.or.kr/portal/main/main.do
-- https://www.bok.or.kr/portal/singl/pblictn/list.do?searchOptn10=TALK&menuNo=200633 (한국은행 간행물)
+- [https://www.bok.or.kr/portal/main/main.do](https://www.bok.or.kr/portal/main/main.do)
+- [한국은행 간행물](https://www.bok.or.kr/portal/singl/pblictn/list.do?searchOptn10=TALK&menuNo=200633) 
 
 <br>
 
 ### 올웨더 포트폴리오(All weather) + 지수 투자법
 - 헤지펀드의 대가인 레이 달리오가 제안한 포트폴리오이다.
-- https://blog.toss.im/article/asset-allocation-etf
-- https://m.blog.naver.com/pangyo_nevergiveup_/223117876083?referrerCode=1
-- https://usant.tistory.com/
+- [https://blog.toss.im/article/asset-allocation-etf](https://blog.toss.im/article/asset-allocation-etf)
+- [https://m.blog.naver.com/pangyo_nevergiveup_/223117876083?referrerCode=1](https://m.blog.naver.com/pangyo_nevergiveup_/223117876083?referrerCode=1)
+- [https://usant.tistory.com/](https://usant.tistory.com/)
 - 미국 ETF 표 참조
 
 <br>
 
 ### 국제금융센터 보고서
-- https://www.kcif.or.kr/report/reportList
+- [https://www.kcif.or.kr/report/reportList](https://www.kcif.or.kr/report/reportList)
 
 <br>
 
 ### IMF 보고서
-- https://www.imf.org/en/publications
+- [https://www.imf.org/en/publications](https://www.imf.org/en/publications)
 
 <br>
 
@@ -81,13 +81,13 @@ sidebar:
 
 #### 근원물가지수
 - 변동성이 큰 품목을 제외하여 산출한 지수
-- https://find-alpha.tistory.com/185
+- [https://find-alpha.tistory.com/185](https://find-alpha.tistory.com/185)
 - 연준에서 개발한 절사 CPI 지수(Trimmed Mean Consumer Price Index)도 존재한다.
 
 <br>
 
 ### 미국 3대 주가지수
-- https://m.blog.naver.com/limpider/221707398301
+- [https://m.blog.naver.com/limpider/221707398301](https://m.blog.naver.com/limpider/221707398301)
 
 #### 다우지수 산업지수(DJIA)
 - 30개 대표 종목의 주가를 단순평균한 값
@@ -101,7 +101,7 @@ sidebar:
 <br>
 
 ### 통화지표 : 본원통화, M1, M2, Lf, L
-- https://cklee88.tistory.com/m/55
+- [https://cklee88.tistory.com/m/55](https://cklee88.tistory.com/m/55)
 
 #### 본원통화(Reserve Base)
 - 중앙은행이 화폐발행의 권한을 통하여 공급한 통화이다. 중앙은행의 창구를 통하여 시중에 나온 현금이다.
@@ -148,17 +148,16 @@ sidebar:
 ![Image](/assets/postimage/circulation2.jpg){:style="border:1px solid #eaeaea; border-radius: 7px; padding: 0px;" }
 
 - 경기종합지수는 국민경제 전체의 경기동향을 쉽게 파악하기 위하여 경제부문별(생산, 투자,고용, 소비 등)로 경기에 민감하게 반영하는 주요 경제지표들을 선정한 후 이 지표들의 전월대비 증감률을 합성하여 작성한다.
-- https://kostat.go.kr/statDesc.es?act=view&mid=a10501010000&sttr_cd=S010001
-- https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1057
-- https://m.blog.naver.com/pangyo_nevergiveup_/223133069347?referrerCode=1
+- [https://kostat.go.kr/statDesc.es?act=view&mid=a10501010000&sttr_cd=S010001](https://kostat.go.kr/statDesc.es?act=view&mid=a10501010000&sttr_cd=S010001)
+- [https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1057](https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1057)
+- [https://m.blog.naver.com/pangyo_nevergiveup_/223133069347?referrerCode=1](https://m.blog.naver.com/pangyo_nevergiveup_/223133069347?referrerCode=1)
 
 <br>
 
 ### 미국 경기선행지수(LEI, Leading Economic Index)
 
-- https://www.conference-board.org/topics/us-leading-indicators
-
-- https://silvernecklace.tistory.com/485
+- [https://www.conference-board.org/topics/us-leading-indicators](https://www.conference-board.org/topics/us-leading-indicators)
+- [https://silvernecklace.tistory.com/485](https://silvernecklace.tistory.com/485)
 
 <br>
 
@@ -192,8 +191,8 @@ sidebar:
 <br>
 
 ### 장단기 국채 금리의 차이
--  https://www.sisain.co.kr/news/articleView.html?idxno=44274))
-- https://psystat.tistory.com/164
+- [https://www.sisain.co.kr/news/articleView.html?idxno=44274](https://www.sisain.co.kr/news/articleView.html?idxno=44274)
+- [https://psystat.tistory.com/164](https://psystat.tistory.com/164)
 
 <br>
 
@@ -201,7 +200,7 @@ sidebar:
 ### 매매/전세/월세 매물 개수
 - 돈이 급하게 되면 매전월 3개를 전부 올려놓는다. 만약 이 상황에서 매매가 되면 나머지 전세/월세는 자연스럽게 거둬진다.
 - 그러므로 거래량 폭증 시에는 매전월이 같이 증가하고 감소할 때는 다 같이 빠진다.
--  https://m.blog.naver.com/pangyo_nevergiveup_/223083695372?referrerCode=1
+- [https://m.blog.naver.com/pangyo_nevergiveup_/223083695372?referrerCode=1](https://m.blog.naver.com/pangyo_nevergiveup_/223083695372?referrerCode=1)
 
 <br>
 
