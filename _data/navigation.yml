@@ -160,6 +160,10 @@ docs-en:
           url:    /archive.html?tag=Weatherapp
           tag:    Weatherapp
 
+        - title:  2. 가계 앱
+          url:    /archive.html?tag=Accountapp
+          tag:    Accountapp
+
   - title:      알고리즘
     children:
         - title:  알고리즘 기초
