@@ -1,6 +1,6 @@
 ---
 title: 경제 해석 지표 모음
-tags: Panbul
+tags: Economy Panbul
 aside:
   toc: true
 sidebar:
