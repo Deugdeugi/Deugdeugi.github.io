@@ -1,6 +1,6 @@
 ---
 title: 자유지성 강의 - 돈의 숨겨진 비밀 1부
-tags: Liberal_Reason
+tags: Economy Liberal_Reason
 aside:
   toc: true
 sidebar:
