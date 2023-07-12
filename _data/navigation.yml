@@ -180,15 +180,11 @@ docs-en:
 
   - title:      기술 면접
 
-  - title:      경제 공부
+  - title:      경제
     children:
-        - title:  판교불패
-          url:    archive.html?tag=Panbul
-          tag:    Panbul
-
-        - title:  자유지성
-          url:    /archive.html?tag=Liberal_Reason
-          tag:    Liberal_Reason
+        - title:  경제 공부
+          url:    archive.html?tag=Economy
+          tag:    Economy
 
         - title:  경제 용어 정리
           url:    /archive.html?tag=Economy_Words
