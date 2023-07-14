@@ -24,6 +24,9 @@ docker -v
 ## MAC에서 docker 데몬 실행 관련 참고 글
 [https://godtaehee.tistory.com/m/35?category=976391](https://godtaehee.tistory.com/m/35?category=976391)
 
+## Window에서 WSL 실행 안 될 때
+[https://hbase.tistory.com/291](https://hbase.tistory.com/291)
+
 ## docker 이미지 관련 명령어
 ```
 1) 현재 이미지 목록 : docker image ls
