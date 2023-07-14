@@ -21,6 +21,11 @@ Docker 명령어 목록을 정리해 보았다
 docker -v
 ```
 
+## docker 데몬 실행
+```
+dockerd
+```
+
 ## MAC에서 docker 데몬 실행 관련 참고 글
 [https://godtaehee.tistory.com/m/35?category=976391](https://godtaehee.tistory.com/m/35?category=976391)
 
