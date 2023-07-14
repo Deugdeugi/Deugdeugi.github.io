@@ -23,7 +23,7 @@ docker -v
 
 ## docker 데몬 실행
 ```
-dockerd
+dockerd &
 ```
 
 ## MAC에서 docker 데몬 실행 관련 참고 글
