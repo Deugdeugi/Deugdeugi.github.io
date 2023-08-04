@@ -3,9 +3,23 @@
 - Production 모드 실행 : watchy -w _config.yml -- bundle exec jekyll serve --livereload --watch
 - Draft 모드 실행 : watchy -w _config.yml -- bundle exec jekyll serve --livereload --drafts --watch
 
+<br>
+
 1. VSCode 한글 씹힐 때
+```
 - Command + Shift + P 로 명령 검색창 표시 > 표시 언어 구성 > ko 선택
 - Command + P 는 파일 이름 검색창 표시
+```
+
+<br>
+
+2. jekyll 서버 실행 안 될 때
+```
+- jekyll 설치 가이드 참조
+- gemfile 재작성 후 설치
+
+참조 : https://so-es-immer.tistory.com/entry/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-jekyll-serve-%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0
+```
 
 <!--
 # [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
