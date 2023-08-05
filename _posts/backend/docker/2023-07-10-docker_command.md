@@ -26,6 +26,9 @@ docker -v
 dockerd &
 ```
 
+## 도커 명령어 입력 시 반응이 없을 때(hang) 
+[도커 데몬을 종료시켰다가 다시 실행시켜 본다.](https://www.lesstif.com/docker/docker-hang-42663946.html)
+
 ## MAC에서 docker 데몬 실행 관련 참고 글
 [https://godtaehee.tistory.com/m/35?category=976391](https://godtaehee.tistory.com/m/35?category=976391)
 
@@ -89,3 +92,4 @@ dockerd &
 - [docker 이미지 push 오류가 날 때는?](https://velog.io/@eunsilson/Docker-Docker-Hub-push-%EC%8B%A4%ED%8C%A8-requested-access-to-the-resource-is-denied)  
 - [docker 이미지 불러오기](https://ahniverson.tistory.com/24)  
 - [Docfile을 통한 이미지 생성](https://javacan.tistory.com/entry/docker-start-7-create-image-using-dockerfile)
+- [Docker Daemon 재실행](https://www.lesstif.com/docker/docker-hang-42663946.html)
