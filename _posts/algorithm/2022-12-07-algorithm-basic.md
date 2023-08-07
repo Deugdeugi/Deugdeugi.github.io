@@ -1,6 +1,6 @@
 ---
 title: 알고리즘 공부할 때 참고 링크
-tags: Algorithm_Basic
+tags: Algorithm Algorithm_Basic
 aside:
   toc: true
 sidebar:

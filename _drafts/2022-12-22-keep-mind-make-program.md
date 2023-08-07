@@ -1,6 +1,6 @@
 ---
 title: 구현 단계에서 유의할 점 & 좋은 프로그램을 작성하기 위한 가이드라인
-tags: Algorithm_Study
+tags: Algorithm Algorithm_Study
 aside:
   toc: true
 sidebar:

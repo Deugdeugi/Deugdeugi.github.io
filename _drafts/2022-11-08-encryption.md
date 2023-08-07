@@ -1,6 +1,6 @@
 ---
 title: 대칭 키와 비대칭 키 암호화에 대하여
-tags: Security
+tags: Web Security
 aside:
   toc: true
 sidebar:

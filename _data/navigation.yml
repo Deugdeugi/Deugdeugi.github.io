@@ -184,7 +184,7 @@ docs-en:
     children:
         - title:  경제 공부
           url:    archive.html?tag=Economy
-          tag:    Economy
+          tag:    Economy_Study
 
         - title:  경제 용어 정리
           url:    /archive.html?tag=Economy_Words
@@ -200,4 +200,10 @@ docs-en:
     children:
         - title:  블로그 틀
           url:    /2023/05/06/blogtemplate.html
-          tag:    Liberal_Reason
+          tag:    블로그 틀
+
+  - title:      취미
+    children:
+        - title:  맛집 / 데이트
+          url:    archive.html?tag=놀자판
+          tag:    놀자판

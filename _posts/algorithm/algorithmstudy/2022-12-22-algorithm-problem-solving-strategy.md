@@ -1,6 +1,6 @@
 ---
 title: 알고리즘 문제 해결 전략
-tags: Algorithm_Study
+tags: Algorithm Algorithm_Study
 aside:
   toc: true
 sidebar:

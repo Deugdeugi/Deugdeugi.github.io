@@ -1,6 +1,6 @@
 ---
 title: 알고리즘에 많이 쓰이는 함수 & 라이브러리
-tags: Algorithm_Basic
+tags: Algorithm Algorithm_Basic
 aside:
   toc: true
 sidebar:

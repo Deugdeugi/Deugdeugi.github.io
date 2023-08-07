@@ -1,6 +1,6 @@
 ---
 title: Promise / async / await
-tags: Javascript
+tags: Programming Javascript
 aside:
   toc: true
 sidebar:

@@ -1,6 +1,6 @@
 ---
 title: Github ssh 접속 원리 정리
-tags: Git
+tags: Tool Git
 aside:
   toc: true
 sidebar:

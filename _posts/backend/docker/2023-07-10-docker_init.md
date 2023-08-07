@@ -1,6 +1,6 @@
 ---
 title: Docker 리눅스 프로젝트용 초기 설정
-tags: Docker
+tags: Backend Docker
 aside:
   toc: true
 sidebar:

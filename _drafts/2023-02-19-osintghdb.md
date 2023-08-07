@@ -1,6 +1,6 @@
 ---
 title: 검색을 다채롭게, 검색 연산자/GHDB/OSINT
-tags: Security
+tags: Web Security
 aside:
   toc: true
 sidebar:
