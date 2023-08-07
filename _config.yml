@@ -20,7 +20,7 @@ text_skin: # "default" (default), "dark", "forest", "ocean", "chocolate", "orang
 highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Deugdeugi
+title   : Deugdeugi.com
 description: > # this means to ignore newlines until "Language & timezone"
   Deugdeugi의 개발일기
 
@@ -35,7 +35,7 @@ timezone: Asia/Seoul # see https://en.wikipedia.org/wiki/List_of_tz_database_tim
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Deugdeugi
+  name      : Deugdeugi.com
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.

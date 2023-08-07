@@ -106,8 +106,10 @@ ul.toc--navigator {
   }
   .toc-h1 {
     &, a {
-      font-size: map-get($base, font-size);
+      font-size: map-get($base, font-size-h1-xs);
+      font-family: "Consolas";
       line-height: map-get($base, line-height);
+
     }
     color: $text-color;
     a {

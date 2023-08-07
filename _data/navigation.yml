@@ -78,7 +78,7 @@ header:
     url: https://github.com/Deugdeugi/Deugdeugi.github.io
 
 docs-en:
-  - title:      Deugdeugi
+  - title:      Deugdeugi.com
     children:
       - title:  홈
         url:    /
@@ -87,6 +87,10 @@ docs-en:
       - title:  블로그 공작소
         url:    /archive.html?tag=공작소
         tag:    공작소
+
+      - title:  블로그 틀
+        url:    /2023/05/06/blogtemplate.html
+        tag:    블로그 틀
 
       - title:  참조 사이트
         url:    /2023/05/10/refersite.html
@@ -195,12 +199,6 @@ docs-en:
         - title:  토익 스피킹
           url:    archive.html?tag=Toeic_Speaking
           tag:    Toeic_Speaking
-
-  - title:      블로그 틀
-    children:
-        - title:  블로그 틀
-          url:    /2023/05/06/blogtemplate.html
-          tag:    블로그 틀
 
   - title:      취미
     children:

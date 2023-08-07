@@ -1,7 +1,8 @@
 .header {
   background: $header-background;
   a {
-    font-weight: map-get($base, font-weight);
+    font-weight: map-get($base, font-weight-bold);
+    font-family: "Consolas";
     text-decoration: none !important;
     @include link-colors($header-text-color, $main-color-1);
   }
