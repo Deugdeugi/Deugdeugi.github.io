@@ -1,33 +1,19 @@
-{%- if page.sidebar.nav -%}
-  <div class="sidebar-toc">
-    {%- assign _sidebar_nav = site.data.navigation[page.sidebar.nav] -%}
-    {%- if _sidebar_nav -%}
-    <ul class="toc toc--navigator">
-      {%- for _item in _sidebar_nav -%}
-        <li class="toc-h1">{{ _item.title }}</li>
-        {%- if _item.children -%}
-          {%- for _child in _item.children -%}
-            {%- include snippets/get-nav-url.html path=_child.url -%}
-            {%- assign _nav_url = __return -%}
-            {%- include snippets/get-nav-url.html path=page.url -%}
-            {%- assign _page_url = __return -%}
-            {%- if _nav_url == _page_url -%}
-              <li class="toc-h2 active">
-                <a href="{{ _nav_url }}">{{ _child.title }}</a>
-                {% for tag in site.tags %}
-                    {%- if _child.tag == tag[0] -%}
-                      {% assign tag_count = 0 %}
-                      {% for post in tag[1] %}
-                        {% assign tag_count = tag_count | plus: 1 %}
-                      {% endfor %}
-                      ({{ tag_count }})
-                    {%- endif -%}
-                  {% endfor %}
-              </li>
-            {%- else -%}
-              <li class="toc-h2">
-                <a href="{{ _nav_url }}">{{ _child.title }}</a>
-                {% for tag in site.tags %}
+<div class="sidebar-toc">
+  {%- assign _sidebar_nav = site.data.navigation["docs-en"] -%}
+  {%- if _sidebar_nav -%}
+  <ul class="toc toc--navigator">
+    {%- for _item in _sidebar_nav -%}
+      <li class="toc-h1">{{ _item.title }}</li>
+      {%- if _item.children -%}
+        {%- for _child in _item.children -%}
+          {%- include snippets/get-nav-url.html path=_child.url -%}
+          {%- assign _nav_url = __return -%}
+          {%- include snippets/get-nav-url.html path=page.url -%}
+          {%- assign _page_url = __return -%}
+          {%- if _nav_url == _page_url -%}
+            <li class="toc-h2 active">
+              <a href="{{ _nav_url }}">{{ _child.title }}</a>
+              {% for tag in site.tags %}
                   {%- if _child.tag == tag[0] -%}
                     {% assign tag_count = 0 %}
                     {% for post in tag[1] %}
@@ -36,12 +22,24 @@
                     ({{ tag_count }})
                   {%- endif -%}
                 {% endfor %}
-              </li>
-            {%- endif -%}
-          {%- endfor -%}
-        {%- endif -%}
-      {%- endfor -%}
-      </ul>
-    {%- endif -%}
-  </div>
-{%- endif -%}
+            </li>
+          {%- else -%}
+            <li class="toc-h2">
+              <a href="{{ _nav_url }}">{{ _child.title }}</a>
+              {% for tag in site.tags %}
+                {%- if _child.tag == tag[0] -%}
+                  {% assign tag_count = 0 %}
+                  {% for post in tag[1] %}
+                    {% assign tag_count = tag_count | plus: 1 %}
+                  {% endfor %}
+                  ({{ tag_count }})
+                {%- endif -%}
+              {% endfor %}
+            </li>
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endif -%}
+    {%- endfor -%}
+    </ul>
+  {%- endif -%}
+</div>
