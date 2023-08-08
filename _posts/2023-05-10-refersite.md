@@ -50,6 +50,7 @@ sidebar:
 ### 블로그
 - [https://brunch.co.kr/@sicle-official/35](https://brunch.co.kr/@sicle-official/35)
 - [teo.log](https://velog.io/@teo)
+- [TEOConf](https://www.teoconf.com/)
 
 ### 프로그래밍 언어 순위
 - [https://www.tiobe.com/tiobe-index](https://www.tiobe.com/tiobe-index)
