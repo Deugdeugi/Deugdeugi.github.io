@@ -191,7 +191,7 @@ docs-en:
   - title:      경제
     children:
         - title:  경제 공부
-          url:    archive.html?tag=Economy
+          url:    archive.html?tag=Economy_Study
           tag:    Economy_Study
 
         - title:  경제 용어 정리
