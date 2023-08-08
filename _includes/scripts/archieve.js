@@ -68,6 +68,20 @@
       return _buttons;
     }
     function buttonFocus(target) {
+      // 아카이브 페이지 진입 시 초기화 과정, 페이지 불러오면서 toc 다시 그림
+      // 현재 페이지의 tag와 toc URL의 태그를 비교하여 일치하는 DOM의 상위 <li> 태그의 class를 active로 수정한다.
+      var curURLTag = new URL(window.location.href).searchParams.get('tag');
+      var tocDOMArr = Array.from(document.getElementsByClassName('toc-h2-a'));
+
+      var selectArchieveTocDom = tocDOMArr.filter(e => {
+        var tocDOMTag = new URL(e.href).searchParams.get('tag');
+        return ( tocDOMTag === curURLTag ) ;
+      });
+
+      if ( selectArchieveTocDom && ( selectArchieveTocDom.length === 1 ) ) {
+        selectArchieveTocDom[0].closest("li").setAttribute('class', 'toc-h2 active');
+      }
+
       if (target) {
         target.addClass('focus');
         $lastFocusButton && !$lastFocusButton.is(target) && $lastFocusButton.removeClass('focus');
