@@ -118,7 +118,7 @@ $button: (
   padding-x-xl:           $button-height-xl / 3,
   padding-y-lg:           ($button-height-lg - map-get($base, font-size-lg)) / 2,
   padding-x-lg:           $button-height-lg / 3,
-  padding-y:              ($button-height-lg - map-get($base, font-size-lg)) / 2,
+  padding-y:              ($button-height - map-get($base, font-size)) / 2,
   padding-x:              $button-height / 3,
   padding-y-sm:           ($button-height-sm - map-get($base, font-size-sm)) / 2,
   padding-x-sm:           $button-height-sm / 3,
