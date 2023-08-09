@@ -30,9 +30,12 @@ sidebar:
 - [대출이몽](https://blog.naver.com/skdnjsqls)
 - [CN Trading Class](https://blog.naver.com/cntradingclass)
 - [베리스](https://www.instagram.com/ve.rris/)
+- [베리스 유튜브](https://www.youtube.com/@verrisnim)
 
+<br>
 
 ## 알고리즘 공부
+### 온라인 저지
 - [백준](https://www.acmicpc.net)
 - [릿코드](https://leetcode.com)
 - [프로그래머스](https://programmers.co.kr)
@@ -42,6 +45,16 @@ sidebar:
 - [삼성 SW Expert Academy](https://swexpertacademy.com/main/main.do)
 - [코드그라운드](https://www.codeground.org)
 - [구름](https://level.goorm.io)
+
+### 공부 방법
+- [알고리즘 공부, 어떻게 해야 하나요?](https://baactree.tistory.com/52)
+- [알고리즘 공부 방법/순서](https://baactree.tistory.com/14)
+- [어떻게 공부할까? 프로그래머를 위한 공부론](https://t1.daumcdn.net/cfile/tistory/117EC6204C2054978C)
+- [내가 알고리즘을 공부하는 방법](http://wookje.dance/2019/04/16/how-to-study-algorithm/)
+- [PS를 공부하는 방법](https://subinium.github.io/how-to-study-problem-solving/)
+- [내가 문제풀이를 연습하는 방법](https://koosaga.com/217)
+
+<br>
 
 ## IT 유튜브/블로그
 ### 유튜브
@@ -68,10 +81,14 @@ sidebar:
 ### 기초 프로젝트 리스트
 - [https://www.freecodecamp.org/korean/news/javascript-projects-for-beginners/](https://www.freecodecamp.org/korean/news/javascript-projects-for-beginners/)
 
+<br>
+
 ## 교양
 - [밀리의 서재](https://www.millie.co.kr/)
 - [그레이트 마인즈](https://home.ebs.co.kr/greatminds/)
 - [하와이 대저택](https://www.youtube.com/c/%ED%95%98%EC%99%80%EC%9D%B4%EB%8C%80%EC%A0%80%ED%83%9D)
+
+<br>
 
 ## 계획 마인드맵
 - [GitMind](https://gitmind.com/)
