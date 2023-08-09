@@ -10,7 +10,10 @@
           {%- assign _nav_url = __return -%}
           {%- include snippets/get-nav-url.html path=page.url -%}
           {%- assign _page_url = __return -%}
-          {%- if _nav_url == _page_url -%}
+          {%- assign tocSplitArr = _child.url | split: 'tag=' -%}
+          {%- assign tocTag = tocSplitArr[1] -%}
+
+          {%- if _nav_url == _page_url or page.tags contains tocTag -%}
             <li class="toc-h2 active">
               <a class="toc-h2-a" href="{{ _nav_url }}">{{ _child.title }}</a>
               {% for tag in site.tags %}

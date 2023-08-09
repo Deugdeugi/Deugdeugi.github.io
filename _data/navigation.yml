@@ -88,10 +88,6 @@ docs-en:
         url:    /archive.html?tag=공작소
         tag:    공작소
 
-      - title:  블로그 틀
-        url:    /2023/05/06/blogtemplate.html
-        tag:    블로그 틀
-
       - title:  참조 사이트
         url:    /2023/05/10/refersite.html
 
