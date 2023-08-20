@@ -34,8 +34,6 @@ key: page-about
 ```
 
 ### 취미/맛집
-```
-노닐러 만디 : https://m.blog.naver.com/mandilog
-```
+[노닐러 만디](https://m.blog.naver.com/mandilog)
 
 <!-- more -->
