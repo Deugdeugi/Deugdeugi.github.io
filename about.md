@@ -26,6 +26,16 @@ titles:
 key: page-about
 ---
 
-자기소개 작성 예정
+## 내 소중한 일기장
+
+### 경력
+```
+
+```
+
+### 취미/맛집
+```
+노닐러 만디 : https://m.blog.naver.com/mandilog
+```
 
 <!-- more -->
