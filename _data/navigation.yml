@@ -205,3 +205,9 @@ docs-en:
         - title:  맛집 / 데이트
           url:    archive.html?tag=놀자판
           tag:    놀자판
+
+  - title:      N잡
+    children:
+        - title:  N잡특공대
+          url:    archive.html?tag=NJob_Commando
+          tag:    NJob_Commando
