@@ -45,6 +45,15 @@ sidebar:
 - [삼성 SW Expert Academy](https://swexpertacademy.com/main/main.do)
 - [코드그라운드](https://www.codeground.org)
 - [구름](https://level.goorm.io)
+- [한국 정보올림피아드](https://koi.or.kr/)
+- [탑코더](https://www.topcoder.com/tc)
+- [코드포스](https://codeforces.com/)
+- [바야돌리드 대학교 온라인 채점 사이트](https://onlinejudge.org/)
+- [알고스팟](https://www.algospot.com/)
+- [USACO Training Program](https://train.usaco.org/usacogate)
+- [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/)
+- [Project Euler](https://projecteuler.net/)
+- [SPOJ Online Judge](https://www.spoj.com)
 
 ### 공부 방법
 - [알고리즘 공부, 어떻게 해야 하나요?](https://baactree.tistory.com/52)
@@ -53,6 +62,12 @@ sidebar:
 - [내가 알고리즘을 공부하는 방법](http://wookje.dance/2019/04/16/how-to-study-algorithm/)
 - [PS를 공부하는 방법](https://subinium.github.io/how-to-study-problem-solving/)
 - [내가 문제풀이를 연습하는 방법](https://koosaga.com/217)
+
+### 책
+- Introduction to Algorithms(한빛미디어)
+- Programming Challenges(한빛미디어)
+- The Art of Computer Programming(한빛미디어)
+- 프로그래밍 콘테스트 챌린징(로드북)
 
 <br>
 
