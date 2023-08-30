@@ -81,6 +81,8 @@ sidebar:
 ### 기초 프로젝트 리스트
 - [https://www.freecodecamp.org/korean/news/javascript-projects-for-beginners/](https://www.freecodecamp.org/korean/news/javascript-projects-for-beginners/)
 
+### 해킹
+- [https://dreamhack.io/]
 <br>
 
 ## 교양
