@@ -62,7 +62,14 @@ sidebar:
 - [내가 알고리즘을 공부하는 방법](http://wookje.dance/2019/04/16/how-to-study-algorithm/)
 - [PS를 공부하는 방법](https://subinium.github.io/how-to-study-problem-solving/)
 - [내가 문제풀이를 연습하는 방법](https://koosaga.com/217)
+- [https://blog.naver.com/kks227](https://blog.naver.com/kks227)
 
+### 수학
+- [알고리즘 대회에 필요한 수학](https://algospot.com/wiki/read/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%8C%80%ED%9A%8C%EC%97%90_%ED%95%84%EC%9A%94%ED%95%9C_%EC%88%98%ED%95%99)
+
+### 자주 하는 실수 모음
+- [자주 하는 실수 모음](https://algospot.com/wiki/read/%EC%9E%90%EC%A3%BC_%ED%95%98%EB%8A%94_%EC%8B%A4%EC%88%98_%EB%AA%A8%EC%9D%8C)
+  
 ### 책
 - Introduction to Algorithms(한빛미디어)
 - Programming Challenges(한빛미디어)
