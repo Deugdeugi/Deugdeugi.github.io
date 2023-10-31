@@ -63,6 +63,7 @@ sidebar:
 - [PS를 공부하는 방법](https://subinium.github.io/how-to-study-problem-solving/)
 - [내가 문제풀이를 연습하는 방법](https://koosaga.com/217)
 - [https://blog.naver.com/kks227](https://blog.naver.com/kks227)
+- [알고리즘 학습을 위한 체계적인 훈련법](https://velog.io/@asdfg5415/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%95%99%EC%8A%B5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B2%B4%EA%B3%84%EC%A0%81%EC%9D%B8-%ED%9B%88%EB%A0%A8%EB%B2%95)
 
 ### 수학
 - [알고리즘 대회에 필요한 수학](https://algospot.com/wiki/read/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%8C%80%ED%9A%8C%EC%97%90_%ED%95%84%EC%9A%94%ED%95%9C_%EC%88%98%ED%95%99)
