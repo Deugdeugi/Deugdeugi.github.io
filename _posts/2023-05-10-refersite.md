@@ -16,6 +16,12 @@ sidebar:
 
 <!-- more -->
 
+## 취미 블로그
+
+- [노닐러 만디](https://blog.naver.com/mandilog)
+
+<br>
+
 ## 경제
 - [자유지성](https://www.youtube.com/@Liberal-Reason)
 - [판교불패 블로그](https://blog.naver.com/pangyo_nevergiveup_)
@@ -105,7 +111,7 @@ sidebar:
 - [https://www.freecodecamp.org/korean/news/javascript-projects-for-beginners/](https://www.freecodecamp.org/korean/news/javascript-projects-for-beginners/)
 
 ### 해킹
-- [https://dreamhack.io/]
+- [https://dreamhack.io/](https://dreamhack.io/)
 
 <br>
 
